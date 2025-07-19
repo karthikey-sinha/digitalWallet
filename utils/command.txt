@@ -1,0 +1,12 @@
+CreateWallet Harry 100
+CreateWallet Ron 95.7
+CreateWallet Hermione 104
+CreateWallet Albus 200
+CreateWallet Draco 500
+FD Hermione 50
+TransferMoney Hermione Harry 2
+TransferMoney Hermione Harry 2
+TransferMoney Hermione Harry 2
+TransferMoney Hermione Harry 2
+TransferMoney Hermione Harry 2
+Statement Hermione

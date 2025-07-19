@@ -1,0 +1,8 @@
+2024-06-22 14:46:34,138 - Exception occurred: 'Wallet' object has no attribute 'check_for_offer1'
+Traceback (most recent call last):
+  File "/Users/Documents/digital_wallet/main.py", line 33, in file_mode
+    execute_command(wallet, cmd)
+  File "/Users/Documents/digital_wallet/main.py", line 17, in execute_command
+    if wallet.check_for_offer1(command[1], command[2]):
+       ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Wallet' object has no attribute 'check_for_offer1'
